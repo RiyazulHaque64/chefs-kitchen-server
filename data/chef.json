@@ -9,24 +9,43 @@
     "recipies": [
       {
         "recipe_id": "recipe0101",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
-        "rating": 4.5
+        "recipe_name": "Pot Stickers",
+        "ingredients": [
+          "lb. ground pork",
+          "1/4 c. low-sodium chicken broth",
+          "2 cloves garlic, grated",
+          "2 tbsp. low-sodium soy sauce",
+          "2 tsp. sesame oil"
+        ],
+        "cooking_method": "Make dumplings: In a large bowl, combine pork, broth, white parts of green onions, garlic, soy sauce, sesame oil, ginger, fish sauce if using, and egg. Stir ingredients together, using your hands or a wooden spoon, until fully combined. Line a small baking sheet with parchment paper and dust lightly with flour. Place 4 dumpling wrappers on your work surface, and keep remaining wrappers covered with a clean kitchen towel. Place a heaping teaspoon pork filling just below center on each wrapper. Wet the edge of wrapper with water and fold top half over bottom half and pinch border to seal. Alternatively, pleat dumplings by making small folds starting on one edge and ending on the other, pinching firmly to seal after each fold. Place on prepared baking sheet and continue stuffing and sealing dumplings until all pork mixture is used.",
+        "rating": 4.9
       },
       {
         "recipe_id": "recipe0102",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
-        "rating": 4.7
+        "recipe_name": "Nashville Hot Chicken",
+        "ingredients": [
+          "3 large eggs",
+          "1 tbsp. hot sauce",
+          "2 c. all-purpose flour",
+          "2 tsp. paprika",
+          "1 tsp. cayenne pepper",
+          "4 c. vegetable oil, for frying"
+        ],
+        "cooking_method": "In a large bowl, season chicken generously with salt and pepper. Cover with plastic wrap and let chill in fridge 3 hours or up to overnight. Line a large rimmed baking sheet with a metal rack. In a shallow bowl, whisk together milk, eggs, and hot sauce. In another shallow bowl, whisk together flour, paprika, and cayenne. Pat chicken dry, then dredge in flour mixture, then milk mixture, then flour mixture again, and place on wire rack. Repeat until all chicken is breaded. In a large pot, heat oil until a candy thermometer inserted into pot reads 350°. Working in batches, fry chicken until golden, about 6 to 8 minutes. Scoop out 1/2 cup hot oil, and let remaining oil cool in pot before discarding.",
+        "rating": 5.0
       },
       {
         "recipe_id": "recipe0103",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
-        "rating": 5.0
+        "recipe_name": "Orange Creamsicle Bars",
+        "ingredients": [
+          "1/4 c. granulated sugar",
+          "6 tbsp. unsalted butter, melted",
+          "1/4 tsp. kosher salt",
+          "1/2 c. powdered sugar",
+          "2 c. Cool Whip"
+        ],
+        "cooking_method": "Lightly grease an baking pan with cooking spray and line the bottom with parchment, leaving a 2 overhang on 2 opposite sides. Lightly grease parchment with cooking spray. In a medium bowl, mix crackers, granulated sugar, butter, and salt until mixture resembles wet sand and holds together when pressed. Scrape cracker mixture into prepared pan and press into an even layer with the back of a spoon or measuring cup",
+        "rating": 4.3
       }
     ]
   },
@@ -40,23 +59,42 @@
     "recipies": [
       {
         "recipe_id": "recipe0201",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
+        "recipe_name": "Pot Stickers",
+        "ingredients": [
+          "lb. ground pork",
+          "1/4 c. low-sodium chicken broth",
+          "2 cloves garlic, grated",
+          "2 tbsp. low-sodium soy sauce",
+          "2 tsp. sesame oil"
+        ],
+        "cooking_method": "Make dumplings: In a large bowl, combine pork, broth, white parts of green onions, garlic, soy sauce, sesame oil, ginger, fish sauce if using, and egg. Stir ingredients together, using your hands or a wooden spoon, until fully combined. Line a small baking sheet with parchment paper and dust lightly with flour. Place 4 dumpling wrappers on your work surface, and keep remaining wrappers covered with a clean kitchen towel. Place a heaping teaspoon pork filling just below center on each wrapper. Wet the edge of wrapper with water and fold top half over bottom half and pinch border to seal. Alternatively, pleat dumplings by making small folds starting on one edge and ending on the other, pinching firmly to seal after each fold. Place on prepared baking sheet and continue stuffing and sealing dumplings until all pork mixture is used.",
         "rating": 4.3
       },
       {
         "recipe_id": "recipe0202",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
+        "recipe_name": "Nashville Hot Chicken",
+        "ingredients": [
+          "3 large eggs",
+          "1 tbsp. hot sauce",
+          "2 c. all-purpose flour",
+          "2 tsp. paprika",
+          "1 tsp. cayenne pepper",
+          "4 c. vegetable oil, for frying"
+        ],
+        "cooking_method": "In a large bowl, season chicken generously with salt and pepper. Cover with plastic wrap and let chill in fridge 3 hours or up to overnight. Line a large rimmed baking sheet with a metal rack. In a shallow bowl, whisk together milk, eggs, and hot sauce. In another shallow bowl, whisk together flour, paprika, and cayenne. Pat chicken dry, then dredge in flour mixture, then milk mixture, then flour mixture again, and place on wire rack. Repeat until all chicken is breaded. In a large pot, heat oil until a candy thermometer inserted into pot reads 350°. Working in batches, fry chicken until golden, about 6 to 8 minutes. Scoop out 1/2 cup hot oil, and let remaining oil cool in pot before discarding.",
         "rating": 5.0
       },
       {
         "recipe_id": "recipe0203",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
+        "recipe_name": "Orange Creamsicle Bars",
+        "ingredients": [
+          "1/4 c. granulated sugar",
+          "6 tbsp. unsalted butter, melted",
+          "1/4 tsp. kosher salt",
+          "1/2 c. powdered sugar",
+          "2 c. Cool Whip"
+        ],
+        "cooking_method": "Lightly grease an baking pan with cooking spray and line the bottom with parchment, leaving a 2 overhang on 2 opposite sides. Lightly grease parchment with cooking spray. In a medium bowl, mix crackers, granulated sugar, butter, and salt until mixture resembles wet sand and holds together when pressed. Scrape cracker mixture into prepared pan and press into an even layer with the back of a spoon or measuring cup",
         "rating": 4.9
       }
     ]
@@ -71,23 +109,42 @@
     "recipies": [
       {
         "recipe_id": "recipe0301",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
+        "recipe_name": "Pot Stickers",
+        "ingredients": [
+          "lb. ground pork",
+          "1/4 c. low-sodium chicken broth",
+          "2 cloves garlic, grated",
+          "2 tbsp. low-sodium soy sauce",
+          "2 tsp. sesame oil"
+        ],
+        "cooking_method": "Make dumplings: In a large bowl, combine pork, broth, white parts of green onions, garlic, soy sauce, sesame oil, ginger, fish sauce if using, and egg. Stir ingredients together, using your hands or a wooden spoon, until fully combined. Line a small baking sheet with parchment paper and dust lightly with flour. Place 4 dumpling wrappers on your work surface, and keep remaining wrappers covered with a clean kitchen towel. Place a heaping teaspoon pork filling just below center on each wrapper. Wet the edge of wrapper with water and fold top half over bottom half and pinch border to seal. Alternatively, pleat dumplings by making small folds starting on one edge and ending on the other, pinching firmly to seal after each fold. Place on prepared baking sheet and continue stuffing and sealing dumplings until all pork mixture is used.",
         "rating": 4.6
       },
       {
         "recipe_id": "recipe0302",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
+        "recipe_name": "Nashville Hot Chicken",
+        "ingredients": [
+          "3 large eggs",
+          "1 tbsp. hot sauce",
+          "2 c. all-purpose flour",
+          "2 tsp. paprika",
+          "1 tsp. cayenne pepper",
+          "4 c. vegetable oil, for frying"
+        ],
+        "cooking_method": "In a large bowl, season chicken generously with salt and pepper. Cover with plastic wrap and let chill in fridge 3 hours or up to overnight. Line a large rimmed baking sheet with a metal rack. In a shallow bowl, whisk together milk, eggs, and hot sauce. In another shallow bowl, whisk together flour, paprika, and cayenne. Pat chicken dry, then dredge in flour mixture, then milk mixture, then flour mixture again, and place on wire rack. Repeat until all chicken is breaded. In a large pot, heat oil until a candy thermometer inserted into pot reads 350°. Working in batches, fry chicken until golden, about 6 to 8 minutes. Scoop out 1/2 cup hot oil, and let remaining oil cool in pot before discarding.",
         "rating": 4.8
       },
       {
         "recipe_id": "recipe0303",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
+        "recipe_name": "Orange Creamsicle Bars",
+        "ingredients": [
+          "1/4 c. granulated sugar",
+          "6 tbsp. unsalted butter, melted",
+          "1/4 tsp. kosher salt",
+          "1/2 c. powdered sugar",
+          "2 c. Cool Whip"
+        ],
+        "cooking_method": "Lightly grease an baking pan with cooking spray and line the bottom with parchment, leaving a 2 overhang on 2 opposite sides. Lightly grease parchment with cooking spray. In a medium bowl, mix crackers, granulated sugar, butter, and salt until mixture resembles wet sand and holds together when pressed. Scrape cracker mixture into prepared pan and press into an even layer with the back of a spoon or measuring cup",
         "rating": 5.0
       }
     ]
@@ -102,23 +159,42 @@
     "recipies": [
       {
         "recipe_id": "recipe0401",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
+        "recipe_name": "Grilled Corn on the Cob",
+        "ingredients": [
+          "lb. ground pork",
+          "1/4 c. low-sodium chicken broth",
+          "2 cloves garlic, grated",
+          "2 tbsp. low-sodium soy sauce",
+          "2 tsp. sesame oil"
+        ],
+        "cooking_method": "Make dumplings: In a large bowl, combine pork, broth, white parts of green onions, garlic, soy sauce, sesame oil, ginger, fish sauce if using, and egg. Stir ingredients together, using your hands or a wooden spoon, until fully combined. Line a small baking sheet with parchment paper and dust lightly with flour. Place 4 dumpling wrappers on your work surface, and keep remaining wrappers covered with a clean kitchen towel. Place a heaping teaspoon pork filling just below center on each wrapper. Wet the edge of wrapper with water and fold top half over bottom half and pinch border to seal. Alternatively, pleat dumplings by making small folds starting on one edge and ending on the other, pinching firmly to seal after each fold. Place on prepared baking sheet and continue stuffing and sealing dumplings until all pork mixture is used.",
         "rating": 3.8
       },
       {
         "recipe_id": "recipe0402",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
+        "recipe_name": "Banana Smoothie",
+        "ingredients": [
+          "3 large eggs",
+          "1 tbsp. hot sauce",
+          "2 c. all-purpose flour",
+          "2 tsp. paprika",
+          "1 tsp. cayenne pepper",
+          "4 c. vegetable oil, for frying"
+        ],
+        "cooking_method": "In a large bowl, season chicken generously with salt and pepper. Cover with plastic wrap and let chill in fridge 3 hours or up to overnight. Line a large rimmed baking sheet with a metal rack. In a shallow bowl, whisk together milk, eggs, and hot sauce. In another shallow bowl, whisk together flour, paprika, and cayenne. Pat chicken dry, then dredge in flour mixture, then milk mixture, then flour mixture again, and place on wire rack. Repeat until all chicken is breaded. In a large pot, heat oil until a candy thermometer inserted into pot reads 350°. Working in batches, fry chicken until golden, about 6 to 8 minutes. Scoop out 1/2 cup hot oil, and let remaining oil cool in pot before discarding.",
         "rating": 4.5
       },
       {
         "recipe_id": "recipe0403",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
+        "recipe_name": "Homemade Ice Cream Recipes",
+        "ingredients": [
+          "1/4 c. granulated sugar",
+          "6 tbsp. unsalted butter, melted",
+          "1/4 tsp. kosher salt",
+          "1/2 c. powdered sugar",
+          "2 c. Cool Whip"
+        ],
+        "cooking_method": "Lightly grease an baking pan with cooking spray and line the bottom with parchment, leaving a 2 overhang on 2 opposite sides. Lightly grease parchment with cooking spray. In a medium bowl, mix crackers, granulated sugar, butter, and salt until mixture resembles wet sand and holds together when pressed. Scrape cracker mixture into prepared pan and press into an even layer with the back of a spoon or measuring cup",
         "rating": 4.9
       }
     ]
@@ -133,23 +209,42 @@
     "recipies": [
       {
         "recipe_id": "recipe0501",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
+        "recipe_name": "Cheap Drink Recipes",
+        "ingredients": [
+          "lb. ground pork",
+          "1/4 c. low-sodium chicken broth",
+          "2 cloves garlic, grated",
+          "2 tbsp. low-sodium soy sauce",
+          "2 tsp. sesame oil"
+        ],
+        "cooking_method": "Make dumplings: In a large bowl, combine pork, broth, white parts of green onions, garlic, soy sauce, sesame oil, ginger, fish sauce if using, and egg. Stir ingredients together, using your hands or a wooden spoon, until fully combined. Line a small baking sheet with parchment paper and dust lightly with flour. Place 4 dumpling wrappers on your work surface, and keep remaining wrappers covered with a clean kitchen towel. Place a heaping teaspoon pork filling just below center on each wrapper. Wet the edge of wrapper with water and fold top half over bottom half and pinch border to seal. Alternatively, pleat dumplings by making small folds starting on one edge and ending on the other, pinching firmly to seal after each fold. Place on prepared baking sheet and continue stuffing and sealing dumplings until all pork mixture is used.",
         "rating": 4.3
       },
       {
         "recipe_id": "recipe0502",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
+        "recipe_name": "Croque Madame",
+        "ingredients": [
+          "3 large eggs",
+          "1 tbsp. hot sauce",
+          "2 c. all-purpose flour",
+          "2 tsp. paprika",
+          "1 tsp. cayenne pepper",
+          "4 c. vegetable oil, for frying"
+        ],
+        "cooking_method": "In a large bowl, season chicken generously with salt and pepper. Cover with plastic wrap and let chill in fridge 3 hours or up to overnight. Line a large rimmed baking sheet with a metal rack. In a shallow bowl, whisk together milk, eggs, and hot sauce. In another shallow bowl, whisk together flour, paprika, and cayenne. Pat chicken dry, then dredge in flour mixture, then milk mixture, then flour mixture again, and place on wire rack. Repeat until all chicken is breaded. In a large pot, heat oil until a candy thermometer inserted into pot reads 350°. Working in batches, fry chicken until golden, about 6 to 8 minutes. Scoop out 1/2 cup hot oil, and let remaining oil cool in pot before discarding.",
         "rating": 4.8
       },
       {
         "recipe_id": "recipe0503",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
+        "recipe_name": "Fish Taco Bowls",
+        "ingredients": [
+          "1/4 c. granulated sugar",
+          "6 tbsp. unsalted butter, melted",
+          "1/4 tsp. kosher salt",
+          "1/2 c. powdered sugar",
+          "2 c. Cool Whip"
+        ],
+        "cooking_method": "Lightly grease an baking pan with cooking spray and line the bottom with parchment, leaving a 2 overhang on 2 opposite sides. Lightly grease parchment with cooking spray. In a medium bowl, mix crackers, granulated sugar, butter, and salt until mixture resembles wet sand and holds together when pressed. Scrape cracker mixture into prepared pan and press into an even layer with the back of a spoon or measuring cup",
         "rating": 5.0
       }
     ]
@@ -164,24 +259,43 @@
     "recipies": [
       {
         "recipe_id": "recipe0601",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
-        "rating": 5.0
+        "recipe_name": "Panera Thai Chicken Salad",
+        "ingredients": [
+          "lb. ground pork",
+          "1/4 c. low-sodium chicken broth",
+          "2 cloves garlic, grated",
+          "2 tbsp. low-sodium soy sauce",
+          "2 tsp. sesame oil"
+        ],
+        "cooking_method": "Make dumplings: In a large bowl, combine pork, broth, white parts of green onions, garlic, soy sauce, sesame oil, ginger, fish sauce if using, and egg. Stir ingredients together, using your hands or a wooden spoon, until fully combined. Line a small baking sheet with parchment paper and dust lightly with flour. Place 4 dumpling wrappers on your work surface, and keep remaining wrappers covered with a clean kitchen towel. Place a heaping teaspoon pork filling just below center on each wrapper. Wet the edge of wrapper with water and fold top half over bottom half and pinch border to seal. Alternatively, pleat dumplings by making small folds starting on one edge and ending on the other, pinching firmly to seal after each fold. Place on prepared baking sheet and continue stuffing and sealing dumplings until all pork mixture is used.",
+        "rating": 4.3
       },
       {
         "recipe_id": "recipe0602",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
-        "rating": 4.8
+        "recipe_name": "CPK Italian Chopped Salad",
+        "ingredients": [
+          "3 large eggs",
+          "1 tbsp. hot sauce",
+          "2 c. all-purpose flour",
+          "2 tsp. paprika",
+          "1 tsp. cayenne pepper",
+          "4 c. vegetable oil, for frying"
+        ],
+        "cooking_method": "In a large bowl, season chicken generously with salt and pepper. Cover with plastic wrap and let chill in fridge 3 hours or up to overnight. Line a large rimmed baking sheet with a metal rack. In a shallow bowl, whisk together milk, eggs, and hot sauce. In another shallow bowl, whisk together flour, paprika, and cayenne. Pat chicken dry, then dredge in flour mixture, then milk mixture, then flour mixture again, and place on wire rack. Repeat until all chicken is breaded. In a large pot, heat oil until a candy thermometer inserted into pot reads 350°. Working in batches, fry chicken until golden, about 6 to 8 minutes. Scoop out 1/2 cup hot oil, and let remaining oil cool in pot before discarding.",
+        "rating": 5.0
       },
       {
         "recipe_id": "recipe0603",
-        "recipe_name": "",
-        "ingredients": [],
-        "cooking_method": "",
-        "rating": 4.2
+        "recipe_name": "Air Fryer Mozzarella Sticks",
+        "ingredients": [
+          "1/4 c. granulated sugar",
+          "6 tbsp. unsalted butter, melted",
+          "1/4 tsp. kosher salt",
+          "1/2 c. powdered sugar",
+          "2 c. Cool Whip"
+        ],
+        "cooking_method": "Lightly grease an baking pan with cooking spray and line the bottom with parchment, leaving a 2 overhang on 2 opposite sides. Lightly grease parchment with cooking spray. In a medium bowl, mix crackers, granulated sugar, butter, and salt until mixture resembles wet sand and holds together when pressed. Scrape cracker mixture into prepared pan and press into an even layer with the back of a spoon or measuring cup",
+        "rating": 4.9
       }
     ]
   }
