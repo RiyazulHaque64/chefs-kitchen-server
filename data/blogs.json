@@ -1,22 +1,22 @@
 [
-    {
-        "id": 1,
-        "question": "When should you use Context API?",
-        "answer": "When we use any data in multiple components and nested components, then we use Context API to avoid prop drilling."
-    },
-    {
-        "id": 2,
-        "question": "What is custom hook?",
-        "answer": "Custom Hook is a JavaScript function which we create by ourselves, when we want to share logic between other JavaScript functions. It allows us to reuse some piece of code in several parts of our app."
-    },
-    {
-        "id": 3,
-        "question": "What is useRef?",
-        "answer": "useRef is a built in react hook. we can directly access the elements of the DOM by useRef hook."
-    },
-    {
-        "id": 4,
-        "question": "What is useMemo?",
-        "answer": "useMemo is a built-in react hook, thats memoizes values in our React application. These values usually come from expensive functions, and we use the useMemo hook to store the value, so the expensive function doesn’t always run."
-    }
+  {
+    "id": 1,
+    "question": "What is the differences between uncontrolled and controlled components?",
+    "answer": "When dealing with form data in React, we can use either controlled components or uncontrolled components. when we use controlled component, it is handled by React. On the other hand, when we use uncontrolled component, it is handled by browser DOM. Controlled component help us to validate strongly, specifically and easily. Which is not possible uncontrolled component."
+  },
+  {
+    "id": 2,
+    "question": "How to validate React props using PropTypes?",
+    "answer": "First of all we install the prop-types library, run the command: npm i prop-types. Then we import it in the component from the 'prop-types' module. For validation, we write the below code,"
+  },
+  {
+    "id": 3,
+    "question": "What is the difference between nodejs and express js?",
+    "answer": "NodeJS is open-source, cross-platform JavaScript code that runs on servers. It uses an asynchronous event-driven model and is designed to build scalable network applications. It’s built on Google Chrome’s V8 engine. On the other hand, ExpressJS is a web application framework for NodeJS. The former provides various features that make web application development fast and easy, which otherwise takes more time using only the latter. It provides a robust set of features for web and mobile applications."
+  },
+  {
+    "id": 4,
+    "question": "What is a custom hook, and why will you create a custom hook?",
+    "answer": "Custom Hook is a JavaScript function which we create by ourselves, when we want to share logic between other JavaScript functions. It allows us to reuse some piece of code in several parts of our app. We use custom hook, because, it can be reused easily, which makes the code cleaner and reduces the time to write the code."
+  }
 ]
