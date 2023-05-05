@@ -10,6 +10,7 @@
       {
         "recipe_id": "recipe0101",
         "recipe_name": "Pot Stickers",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-1.png?raw=true",
         "ingredients": [
           "lb. ground pork",
           "1/4 c. low-sodium chicken broth",
@@ -23,6 +24,7 @@
       {
         "recipe_id": "recipe0102",
         "recipe_name": "Nashville Hot Chicken",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-2.jpg?raw=true",
         "ingredients": [
           "3 large eggs",
           "1 tbsp. hot sauce",
@@ -37,6 +39,7 @@
       {
         "recipe_id": "recipe0103",
         "recipe_name": "Orange Creamsicle Bars",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-3.jpg?raw=true",
         "ingredients": [
           "1/4 c. granulated sugar",
           "6 tbsp. unsalted butter, melted",
@@ -60,6 +63,7 @@
       {
         "recipe_id": "recipe0201",
         "recipe_name": "Pot Stickers",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-4.jpg?raw=true",
         "ingredients": [
           "lb. ground pork",
           "1/4 c. low-sodium chicken broth",
@@ -73,6 +77,7 @@
       {
         "recipe_id": "recipe0202",
         "recipe_name": "Nashville Hot Chicken",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-5.jpg?raw=true",
         "ingredients": [
           "3 large eggs",
           "1 tbsp. hot sauce",
@@ -87,6 +92,7 @@
       {
         "recipe_id": "recipe0203",
         "recipe_name": "Orange Creamsicle Bars",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-6.jpg?raw=true",
         "ingredients": [
           "1/4 c. granulated sugar",
           "6 tbsp. unsalted butter, melted",
@@ -110,6 +116,7 @@
       {
         "recipe_id": "recipe0301",
         "recipe_name": "Pot Stickers",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-7.jpg?raw=true",
         "ingredients": [
           "lb. ground pork",
           "1/4 c. low-sodium chicken broth",
@@ -123,6 +130,7 @@
       {
         "recipe_id": "recipe0302",
         "recipe_name": "Nashville Hot Chicken",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-8.jpg?raw=true",
         "ingredients": [
           "3 large eggs",
           "1 tbsp. hot sauce",
@@ -137,6 +145,7 @@
       {
         "recipe_id": "recipe0303",
         "recipe_name": "Orange Creamsicle Bars",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-9.jpg?raw=true",
         "ingredients": [
           "1/4 c. granulated sugar",
           "6 tbsp. unsalted butter, melted",
@@ -160,6 +169,7 @@
       {
         "recipe_id": "recipe0401",
         "recipe_name": "Grilled Corn on the Cob",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-9.jpg?raw=true",
         "ingredients": [
           "lb. ground pork",
           "1/4 c. low-sodium chicken broth",
@@ -173,6 +183,7 @@
       {
         "recipe_id": "recipe0402",
         "recipe_name": "Banana Smoothie",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-8.jpg?raw=true",
         "ingredients": [
           "3 large eggs",
           "1 tbsp. hot sauce",
@@ -187,6 +198,7 @@
       {
         "recipe_id": "recipe0403",
         "recipe_name": "Homemade Ice Cream Recipes",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-7.jpg?raw=true",
         "ingredients": [
           "1/4 c. granulated sugar",
           "6 tbsp. unsalted butter, melted",
@@ -210,6 +222,7 @@
       {
         "recipe_id": "recipe0501",
         "recipe_name": "Cheap Drink Recipes",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-6.jpg?raw=true",
         "ingredients": [
           "lb. ground pork",
           "1/4 c. low-sodium chicken broth",
@@ -223,6 +236,7 @@
       {
         "recipe_id": "recipe0502",
         "recipe_name": "Croque Madame",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-5.jpg?raw=true",
         "ingredients": [
           "3 large eggs",
           "1 tbsp. hot sauce",
@@ -237,6 +251,7 @@
       {
         "recipe_id": "recipe0503",
         "recipe_name": "Fish Taco Bowls",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-4.jpg?raw=true",
         "ingredients": [
           "1/4 c. granulated sugar",
           "6 tbsp. unsalted butter, melted",
@@ -260,6 +275,7 @@
       {
         "recipe_id": "recipe0601",
         "recipe_name": "Panera Thai Chicken Salad",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-3.jpg?raw=true",
         "ingredients": [
           "lb. ground pork",
           "1/4 c. low-sodium chicken broth",
@@ -273,6 +289,7 @@
       {
         "recipe_id": "recipe0602",
         "recipe_name": "CPK Italian Chopped Salad",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-2.jpg?raw=true",
         "ingredients": [
           "3 large eggs",
           "1 tbsp. hot sauce",
@@ -287,6 +304,7 @@
       {
         "recipe_id": "recipe0603",
         "recipe_name": "Air Fryer Mozzarella Sticks",
+        "recipe_image": "https://github.com/RiyazulHaque64/chefs-kitchen-image/blob/main/recipe-1.jpg?raw=true",
         "ingredients": [
           "1/4 c. granulated sugar",
           "6 tbsp. unsalted butter, melted",
